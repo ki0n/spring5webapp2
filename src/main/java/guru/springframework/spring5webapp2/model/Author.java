@@ -14,7 +14,7 @@ import javax.persistence.ManyToMany;
  * 
  * @author kn Created by kn
  */
-@Entity
+@Entity 
 public class Author {
 
     @Id
